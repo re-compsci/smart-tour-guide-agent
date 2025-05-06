@@ -58,7 +58,8 @@ Smart TourGuide Agent is an intelligent travel assistant built using LangChain, 
    Create a .env file in the root directory and add the following:
    OPENAI_API_KEY=your_openai_api_key<br>
    WEATHER_API_KEY=your_openweathermap_api_key<br>
-   Replace your_openai_api_key and your_openweathermap_api_key with your actual API keys.
+   LANGSMITH_API_KEY=your_langsmith_api_key <br>
+   Replace your_openai_api_key , your_openweathermap_api_key and your_langsmith_api_key with your actual API keys.
 
 5. Ensure the pyttsx3 library is correctly configured for your operating system.<br>
    You may need to configure the pyttsx3 library depending on your operating system. Ensure it is working correctly for text-to-speech functionality.
