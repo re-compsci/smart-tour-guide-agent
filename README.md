@@ -49,8 +49,7 @@ Smart TourGuide Agent is an intelligent travel assistant built using LangChain, 
 3. Clone this repository:<br>
 
    ```bash
-      <br>
-   git clone https://github.com/yourusername/smart-tour-guide-agent.git <br>
+   git clone https://github.com/yourusername/smart-tour-guide-agent.git
    cd smart-tour-guide-agent
 
    ```
@@ -114,8 +113,9 @@ duckduckgo-search<br>
 You need to create a `.env` file in the project’s root directory with your API keys. <br> This file should look like this:<br>
 OPENAI_API_KEY=your_openai_api_key
 WEATHER_API_KEY=your_openweathermap_api_key
+LANGSMITH_API_KEY=your_langsmith_api_key
 
-Make sure to replace `your_openai_api_key` and `your_openweathermap_api_key` with your actual API keys.
+Make sure to replace `your_openai_api_key`, `your_openweathermap_api_key` and  `your_langsmith_api_key` with your actual API keys.
 
 ## Usage Guide
 
