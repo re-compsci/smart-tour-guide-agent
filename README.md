@@ -49,8 +49,8 @@ Smart TourGuide Agent is an intelligent travel assistant built using LangChain, 
 3. Clone this repository:<br>
 
    ```bash
-      <br>
-   git clone https://github.com/yourusername/smart-tour-guide-agent.git <br>
+   
+   git clone https://github.com/yourusername/smart-tour-guide-agent.git 
    cd smart-tour-guide-agent
 
    ```
